@@ -1,5 +1,5 @@
 # Teste de Desenvolvimento .NET Core 3.1
-Você deve criar uma API RESTful para realizar operações CRUD (Create, Read, Update, Delete) de Exportador usando uma API REST. O Exportador deve ter as seguintes propriedades:
+Você deve criar uma API RESTful para realizar operações CRUD (Create, Read, Update, Delete) de Exportador. O Exportador deve ter as seguintes propriedades:
 
 # ExportadorBrasileiro
 1. ID (Identificador único).
