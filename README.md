@@ -8,7 +8,7 @@ Você deve criar uma API RESTful para realizar operações CRUD (Create, Read, U
 4. Telefone (Número de telefone do exportador).
 5. Cnpj (Documento CNPJ do exportador).
 
-# ExportadorParaguay
+# ExportadorParaguai
 1. ID (Identificador único)
 2. Nome (Nome do exportador)
 3. Email (Endereço de e-mail do exportador)
