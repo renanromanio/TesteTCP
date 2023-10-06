@@ -32,3 +32,6 @@ Você deve criar uma API RESTful para realizar operações CRUD (Create, Read, U
 2. Uso adequado das melhores práticas de C# .NET Core, incluindo roteamento, modelos de dados, validação e tratamento de erros.
 3. Utilização de OOP na modelagem.
 4. Uso de padrões de design apropriados.
+
+# Submissão do teste
+1. Assim que terminar, por gentileza, envie o link do repositório ou o projeto compactado para o seguinte endereço de e-mail: ext_rudson.melo@tcp.com.br
