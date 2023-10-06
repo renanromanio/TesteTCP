@@ -30,6 +30,9 @@ Endpoints da API
 ## Você será avaliado com base nos seguintes critérios:
 
 Implementação bem-sucedida de todos os endpoints REST.
+
 Uso adequado das melhores práticas de C# .NET Core, incluindo roteamento, modelos de dados, validação e tratamento de erros.
+
 Utilização de OOP na modelagem.
+
 Uso de padrões de design apropriados.
