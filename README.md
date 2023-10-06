@@ -26,7 +26,7 @@ Você deve criar uma API RESTful para realizar operações CRUD (Create, Read, U
 
 
 
-# Critérios de Avaliação
+
 # Você será avaliado com base nos seguintes critérios:
 
 1. Implementação bem-sucedida de todos os endpoints REST.
