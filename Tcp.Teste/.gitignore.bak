@@ -1,0 +1,14 @@
+/src/TcpComex/obj
+/src/TcpComex/*.Cache
+/src/TcpComex.Api/obj
+/src/TcpComex.Api/*.Cache
+/src/TcpComex.Tests/obj
+/src/TcpComex.Tests/*.Cache
+/src/TcpComex.Api/bin
+/src/TcpComex.Tests/bin
+/src/TcpComex/bin
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/tools
+/buildscripts
+.cr

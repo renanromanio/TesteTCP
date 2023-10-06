@@ -1,0 +1,16 @@
+/Tcp.Teste/obj
+/Tcp.Teste/bin
+/Tcp.Teste/*.Cache
+/Tcp.Teste.Domain/obj
+/Tcp.Teste.Domain/bin
+/Tcp.Teste.Domain/*.Cache
+/Tcp.Teste.Infraestrutura/obj
+/Tcp.Teste.Infraestrutura/bin
+/Tcp.Teste.Infraestrutura/*.Cache
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/tools
+/buildscripts
+.cr
+*.vsidx
+*.lock
