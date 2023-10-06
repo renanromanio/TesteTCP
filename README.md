@@ -2,22 +2,22 @@
 Descrição do Projeto
 Você deve criar uma API RESTful para realizar operações CRUD (Create, Read, Update, Delete) de Exportador usando uma API REST. O Exportador deve ter as seguintes propriedades:
 
-ExportadorBrasileiro
-ID (Identificador único)
-Nome (Nome do exportador)
-Email (Endereço de e-mail do exportador)
-Telefone (Número de telefone do exportador)
-Cnpj (Documento CNPJ do exportador)
+# ExportadorBrasileiro
+1. ID (Identificador único).
+2. Nome (Nome do exportador).
+3. Email (Endereço de e-mail do exportador).
+4. Telefone (Número de telefone do exportador).
+5. Cnpj (Documento CNPJ do exportador).
 
-ExportadorParaguay
-ID (Identificador único)
-Nome (Nome do exportador)
-Email (Endereço de e-mail do exportador)
-Telefone (Número de telefone do exportador)
-Ruc (Documento Ruc do exportador)
+# ExportadorParaguay
+1. ID (Identificador único)
+2. Nome (Nome do exportador)
+3. Email (Endereço de e-mail do exportador)
+4. Telefone (Número de telefone do exportador)
+5. Ruc (Documento Ruc do exportador)
 
 
-Endpoints da API
+# Endpoints da API
 1. Criar um exportador
 2. Listar Todos os exportadores
 3. Obter Detalhes de um exportador
