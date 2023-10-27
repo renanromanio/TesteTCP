@@ -1,0 +1,15 @@
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Negocio\bin\Debug\netcoreapp3.1\TCP.Teste.Negocio.deps.json
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Negocio\bin\Debug\netcoreapp3.1\TCP.Teste.Negocio.dll
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Negocio\bin\Debug\netcoreapp3.1\TCP.Teste.Negocio.pdb
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Negocio\bin\Debug\netcoreapp3.1\TCP.Teste.Data.dll
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Negocio\bin\Debug\netcoreapp3.1\Tcp.Teste.Domain.dll
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Negocio\bin\Debug\netcoreapp3.1\TCP.Teste.Data.pdb
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Negocio\bin\Debug\netcoreapp3.1\Tcp.Teste.Domain.pdb
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Negocio\obj\Debug\netcoreapp3.1\TCP.Teste.Negocio.csproj.AssemblyReference.cache
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Negocio\obj\Debug\netcoreapp3.1\TCP.Teste.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Negocio\obj\Debug\netcoreapp3.1\TCP.Teste.Negocio.AssemblyInfoInputs.cache
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Negocio\obj\Debug\netcoreapp3.1\TCP.Teste.Negocio.AssemblyInfo.cs
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Negocio\obj\Debug\netcoreapp3.1\TCP.Teste.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Negocio\obj\Debug\netcoreapp3.1\TCP.Teste.Negocio.csproj.CopyComplete
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Negocio\obj\Debug\netcoreapp3.1\TCP.Teste.Negocio.dll
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Negocio\obj\Debug\netcoreapp3.1\TCP.Teste.Negocio.pdb

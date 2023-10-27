@@ -1,0 +1,13 @@
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Data\bin\Debug\netcoreapp3.1\TCP.Teste.Data.deps.json
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Data\bin\Debug\netcoreapp3.1\TCP.Teste.Data.dll
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Data\bin\Debug\netcoreapp3.1\TCP.Teste.Data.pdb
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Data\bin\Debug\netcoreapp3.1\Tcp.Teste.Domain.dll
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Data\bin\Debug\netcoreapp3.1\Tcp.Teste.Domain.pdb
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Data\obj\Debug\netcoreapp3.1\TCP.Teste.Data.csproj.AssemblyReference.cache
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Data\obj\Debug\netcoreapp3.1\TCP.Teste.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Data\obj\Debug\netcoreapp3.1\TCP.Teste.Data.AssemblyInfoInputs.cache
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Data\obj\Debug\netcoreapp3.1\TCP.Teste.Data.AssemblyInfo.cs
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Data\obj\Debug\netcoreapp3.1\TCP.Teste.Data.csproj.CoreCompileInputs.cache
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Data\obj\Debug\netcoreapp3.1\TCP.Teste.Data.csproj.CopyComplete
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Data\obj\Debug\netcoreapp3.1\TCP.Teste.Data.dll
+C:\Users\rromanio\Desktop\tcp\TesteTCP\TCP.Teste.Data\obj\Debug\netcoreapp3.1\TCP.Teste.Data.pdb

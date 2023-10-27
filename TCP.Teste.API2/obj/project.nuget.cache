@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4MAF/xDclXZjFSOjOm31ux4y++hfyTLWOHxUon7ZXKDpkc8iAbop7fjdVp2QYz0VjrbztVoA21tJgBezr/BgHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rromanio\\Desktop\\tcp\\TesteTCP\\TCP.Teste.API2\\TCP.Teste.API2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rromanio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

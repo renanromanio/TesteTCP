@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore.Storage;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
@@ -6,6 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using TCP.Teste.Data;
 
 namespace Tcp.Teste
 {
@@ -13,6 +15,7 @@ namespace Tcp.Teste
 	{
 		public static void Main(string[] args)
 		{
+			DatabaseHelper.CriarBancoSQLite();
 			CreateHostBuilder(args).Build().Run();
 		}
 
